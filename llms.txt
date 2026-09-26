@@ -1,0 +1,19 @@
+# Will — Official Site
+
+> Will is a Miami-based singer-songwriter blending soul, indie pop, and Latin rhythms. Albums: First Light (2019), Biscayne Nights (2022), Neon Tide (2025).
+
+## Sections
+- [About Me](https://www.willmusic.example/#about): Biography and FAQ.
+- [Career](https://www.willmusic.example/#career): Timeline of milestones and releases.
+- [Upcoming Shows](https://www.willmusic.example/#shows): Neon Tide Tour, Fall 2026.
+- [Merch](https://www.willmusic.example/#merch): Official apparel, vinyl, and posters.
+- [Fan Club](https://www.willmusic.example/#fan-club): Free "Tide Crew" membership with presales and discounts.
+- [Socials](https://www.willmusic.example/#socials): Instagram, YouTube, Spotify, TikTok, X.
+
+## Upcoming shows
+- 2026-10-17 — The Fillmore Miami Beach, Miami Beach, FL
+- 2026-10-31 — House of Blues Orlando, Lake Buena Vista, FL
+- 2026-11-14 — Variety Playhouse, Atlanta, GA
+
+## Contact
+- Booking & press: booking@willmusic.example
